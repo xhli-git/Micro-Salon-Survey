@@ -264,7 +264,7 @@
       <td>多项任务达或超SOTA，可部署于消费级GPU</td>
       <td>提出通用OCR理论，实现所有人工光学信号的统一处理</td>
       <td><a href="https://arxiv.org/pdf/2409.01704.pdf">文章</a></td>
-      <td><a href="https://github.com/opendatalab/MinerU">代码</a></td>
+      <td><a href="https://github.com/Ucas-HaoranWei/GOT-OCR2.0">代码</a></td>
     </tr>
     <tr>
       <td>MinerU (Wang等，2024)</td>
@@ -273,7 +273,7 @@
       <td>11类文档高质量提取，公式识别媲美Mathpix</td>
       <td>证明精心设计的流水线在大模型时代仍有强大实用价值</td>
       <td><a href="https://arxiv.org/abs/2409.18839">文章</a></td>
-      <td><a href="https://github.com/Ucas-HaoranWei/GOT-OCR2.0">代码</a></td>
+      <td><a href="https://github.com/opendatalab/MinerU">代码</a></td>
     </tr>
     <tr>
       <td>PaddleOCR 3.0 (Cui等，2025a)</td>
